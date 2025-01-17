@@ -4,7 +4,7 @@ GetCID info : All Details about GetCID Services and GetCID API , GetCID WordPres
 🛠️ Support and Contact
 If you have any questions or need support, feel free to reach out:
 
-Telegram: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)
+Telegram: [@CIDAdmin](https://t.me/cidadmin)
 Email: care@msconfirmationid.com
 Skype: live:.cid.afc21522bf98cf1b
 Visit our website: [GetCID Services](https://msconfirmationid.com/)
@@ -20,7 +20,7 @@ Here’s a quick overview of all our services:
 
 2. **GetCID Telegram Bot**  
    Automate CID generation with a simple Telegram interface.  
-   🔗 [Telegram Bot](https://t.me/GetCID_Official_Bot)
+   🔗 [Telegram Bot](https://t.me/GETCIDOfficialBot)
 
 3. **GetCID API**  
    Programmatically manage activations using our powerful API.  
@@ -57,7 +57,7 @@ Effortlessly generate Confirmation IDs for activating Microsoft Office and Windo
 
 ### **2. GetCID Telegram Bot**
 Automate your CID generation with our official Telegram bot:
-- 🔗 [Telegram Bot](https://t.me/GetCID_Official_Bot)
+- 🔗 [Telegram Bot](https://t.me/GETCIDOfficialBot)
 - Easy-to-use interface for instant CID generation.
 
 
@@ -89,7 +89,7 @@ Easily integrate **GetCID Services** into your WordPress website. Our plugin sim
 For detailed setup and usage instructions:
 1. **GetCID API Documentation**: [GetCID API](https://msconfirmationid.com/getcid-api/)
 2. **WordPress Plugin Setup Guide**: Included in the plugin repository.
-3. **Telegram Bot Guide**: Available on the [Telegram Bot Page](https://t.me/GetCID_Official_Bot).
+3. **Telegram Bot Guide**: Available on the [Telegram Bot Page](https://t.me/GETCIDOfficialBot).
 
 ## 💻 **How to Get Started**
 
@@ -102,10 +102,11 @@ For detailed setup and usage instructions:
 
 If you have any questions or need support:
 - Visit our website: [GetCID Services](https://msconfirmationid.com/get-confirmation-id/)
-- Reach out via Telegram: [Support Bot](https://t.me/GetCID_Official_Bot)
+- Reach out via Telegram: [Support Bot](https://t.me/GETCIDOfficialBot)
 🛠️ Support and Contact
 If you have any questions or need support, feel free to reach out:
-Telegram: https://t.me/MicrosoftKeySeller
+Telegram: https://t.me/cidadmin
+Join Telegram Group: https://t.me/GETCID_Official
 Email: care@msconfirmationid.com
 Skype: live:.cid.afc21522bf98cf1b
 
